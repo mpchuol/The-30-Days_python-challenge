@@ -1,10 +1,10 @@
 # The 30 Days Python Challenge
 
-My daily Python practice log. The goal: code something every day for 30 days and get comfortable with Python by building real things.
+A daily Python practice log â€” 30 days of building, debugging, and getting more comfortable with the language. Part of my ongoing software engineering journey at USIU-Africa.
 
 ## Progress
 
-Day 1 - Day 27 complete (3 more to go!)
+Days 1-27 complete â€” 3 more to go.
 
 ## What's inside
 
@@ -17,10 +17,12 @@ Each folder is one day of practice:
 | Day 21 - 27 | Working with data, automation, and a first Flask project |
 | flask_project | A small web app built with Flask |
 
+> Each day's topic is a summary â€” update this table to reflect what you actually covered.
+
 ## How to run
 
 ```bash
-# Run a single day's notebook (Jupyter)
+# Run a single day's notebook
 jupyter notebook Day_1/Day_1.ipynb
 ```
 
@@ -30,7 +32,3 @@ jupyter notebook Day_1/Day_1.ipynb
 - Problem solving and debugging
 - Flask and basic web development
 - Working in Jupyter notebooks
-
-## Why this repo exists
-
-I'm learning in public. Every day I commit shows progress â€” small steps, done consistently. If you're also learning Python, use this as a reference or join the challenge yourself.
